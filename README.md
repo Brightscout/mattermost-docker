@@ -168,3 +168,7 @@ For the server configurations, see [prod-ubuntu.rst] of mattermost.
 [docker]: http://docs.docker.com/engine/installation/
 [docker-compose]: https://docs.docker.com/compose/install/
 [prod-ubuntu.rst]: https://docs.mattermost.com/install/install-ubuntu-1404.html
+
+---
+
+Made with &#9829; by [Brightscout](http://www.brightscout.com)
